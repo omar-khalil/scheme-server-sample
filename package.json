@@ -1,0 +1,12 @@
+{
+  "name": "scheme-server-sample",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/omar-khalil/scheme-server-sample.git",
+  "author": "Omar Khalil <omar-khalil@live.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "scheme": "git+https://github.com/omar-khalil/scheme.git",
+    "typescript": "^5.4.5"
+  }
+}
